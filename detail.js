@@ -203,7 +203,7 @@ function drawInfobox() {
   push();
   textStyle(BOLD);
   fill(colRossoScuro);
-  currentY= text("Ultima eruzione conosciuta:", textX, currentY+60); //più in basso 
+  currentY= text("Ultima eruzione conosciuta:", textX, currentY+40); //più in basso 
   // vicino alla linea del tempo
   pop();
   pop();
